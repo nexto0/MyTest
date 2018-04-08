@@ -1,2 +1,3 @@
 add a new file named new.txt
 something new
+more new
